@@ -1,0 +1,72 @@
+body {
+    font-family: 'Neucha', cursive;
+    background: #dddbdb;
+    font-size: 18px; 
+}
+.title {
+    font-size: 26px;
+    text-align: center;
+}
+.element {
+    padding-bottom: 15px;
+    width: 220px;
+}
+.content .element {
+    display: inline-block;
+}
+.element img {
+    width: 151px;
+    height: 210px;
+}
+a {
+    color:rgb(0, 0, 0);
+    text-decoration: none;
+}
+a img {
+        border: 3px solid #dddbdb;
+}         
+a img:hover {
+        border: 3px solid #5f5855;
+}
+.teacher1::after {
+      content: "зав.каф., професор, д.е.н."; 
+}
+.teacher2::after {
+    content: "професор, д.ф.-м.н."; 
+}
+.teacher3::after {
+    content: "професор, д.е.н."; 
+}
+.teacher4::after {
+    content: "професор, д.е.н."; 
+}
+.teacher5::after {
+    content: "професор, д.е.н."; 
+}
+.teacher6::after {
+    content: "доцент, к.е.н."; 
+}
+section {
+    width: 660px;
+    margin: auto;
+}
+@media (min-width: 1200px) {
+    section {
+        width: 920px;
+    }
+}
+@media (max-width: 960px) {
+    section {
+        width: 435px;
+    }
+}
+@media (max-width: 480px) {
+    section {
+        width: 155px;
+    }
+}
+::after {
+    display: block;
+    color: black;
+    cursor: text;
+}
