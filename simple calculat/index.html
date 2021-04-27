@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Решение простой задачи(экономика)</title>
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fascinate&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h2 class="title">Решение задачи по макроэкономике</h2>
+      <h3 class="task">
+        Определите стоимость продукта(W), если: стоимость продукта -
+        <b>W</b>;средства производства - <b>C</b>;cтоимость рабочей силы -
+        <b>V</b>;прибавочная стоимость - <b>m</b>.
+      </h3>
+      <div class="task-content">
+        <h3>C:</h3>
+        <input id="first" value="" autocomplete="off" />
+        <h3>V:</h3>
+        <input id="second" value="" autocomplete="off" />
+        <h3>m:</h3>
+        <input id="third" value="" autocomplete="off" />
+      </div>
+      <div class="task-text">
+        <h3 class="formula">
+          W = C + V - m 
+        </h3>
+        <h3>
+          Совокупный общественный продукт - в стоимостном выражении равен сумме стоимостей продукции всех предприятий,
+          которая раскладывается на составляющие по формуле стоимости.
+        </h3>
+        <h3>W</h3>
+        <p id="result"></p>
+      </div>
+      <div class="button">
+        <button id="btn">click</button>
+      </div>
+    </div>
+    <script src="js.js"></script>
+  </body>
+</html>
