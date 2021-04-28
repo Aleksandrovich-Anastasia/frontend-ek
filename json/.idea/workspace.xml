@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2ea0ef-89a2-4bf2-a0d5-625df0c956a0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CV/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CV/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/.idea/TASK.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/img/f1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/img/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/img/f3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/img/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TASK 5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../calculator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../project/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qR42zNZppVPHYuIU4Up8C7iiBu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculator" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2ea0ef-89a2-4bf2-a0d5-625df0c956a0" name="Default Changelist" comment="" />
+      <created>1617028865863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617028865863</updated>
+      <workItem from="1617028867166" duration="3233000" />
+      <workItem from="1617108039925" duration="592000" />
+      <workItem from="1617125330332" duration="65000" />
+      <workItem from="1617200206898" duration="9210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1617200897159">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1617200897159" />
+  </component>
+</project>
